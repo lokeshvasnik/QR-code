@@ -11,11 +11,6 @@ Thanks for checking out this front-end coding challenge.
 **To do this challenge, you need a basic understanding of HTML and CSS.**
 # Frontend Mentor - QR code component solution
 
-### Screenshot
-
-![](./screenshot.jpg)
-
-This is the screenshot of qr code challenge
 
 # Frontend Mentor - QR code component
 
