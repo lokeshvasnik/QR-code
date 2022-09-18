@@ -17,7 +17,20 @@ Thanks for checking out this front-end coding challenge.
 
 This is the screenshot of qr code challenge
 
-### Links
+# Frontend Mentor - QR code component
+
+![Design preview for the QR code component coding challenge](./design/desktop-preview.jpg)
+
+## Welcome! 👋
+
+Thanks for checking out this front-end coding challenge.
+
+[Frontend Mentor](https://www.frontendmentor.io) challenges help you improve your coding skills by building realistic projects.
+
+**To do this challenge, you need a basic understanding of HTML and CSS.**
+# Frontend Mentor - QR code component solution
+
+# DO CHECK OUT THE LINKS
 
 - Solution URL: [check](https://lokeshvasnik.github.io/QR-code/)
 - Live Site URL: [check](https://lokeshvasnik.github.io/QR-code/)
@@ -57,4 +70,5 @@ Nothing usefull all I did on my own.
 - Twitter - I dont use twitter
 
 **Note: Delete this note and add/remove/edit lines above based on what links you'd like to share.**
+
 
