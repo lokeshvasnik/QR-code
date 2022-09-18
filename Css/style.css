@@ -6,6 +6,7 @@
   padding: 0;
 }
 
+/* Root element */
 :root {
   --Dark-blue: hsl(218, 44%, 22%);
   --Grayish-blue: hsl(220, 15%, 55%);
@@ -28,6 +29,8 @@ picture {
   margin: 0 auto;
   padding: 15px;
 }
+
+/* Elements */
 h1 {
   font-size: 1.1875rem;
   margin: 10px 0;
@@ -39,7 +42,7 @@ p {
   padding: 22px 15px;
   text-align: center;
 }
-
+/* All classes */
 .container {
   align-items: center;
   background-color: var(--White);
@@ -62,14 +65,14 @@ p {
 }
 
 /* Media Querres  */
-
-@media (max-width: 375px) {
-  .container {
-    max-width: 100%;
-  }
-}
 @media (max-width: 1440px) {
   .container {
     max-width: 25%;
   }
 }
+@media (max-width: 700px) {
+  .container {
+    max-width: 50%;
+  }
+}
+
